@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<!-- track0 -->
+<VTKFile type='PolyData' version='0.1' byte_order='LittleEndian' header_type='UInt64'>
+  <PolyData>
+    <Piece NumberOfPoints='26' NumberOfLines='21'>
+      <Points>
+        <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
+OAEAAAAAAAAAAAAAAAAAP/GQn4YhTkw7AAAAP/GQn4YhTsw7AAAAPwzhDweZOhk8AAAAP4GrOwghTkw8AAAAP2FmBgmpYX88AAAAPye5vAkLWcg+AAAAP/SMgSILWUg/AAAAPyR7ASPIQpY/AAAAPyAp54QLWcg/AAAAP3LKhIVOb/o/AAAAPwUqU4TIQhZAAAAAPwI/TIXqTS9AAAAAPwCOgSILWUhAAAAAP21P6oQtZGFAAAAAP+GohIVOb3pAAAAAP/BgASM4vYlAAAAAPwCOgSLIQpZAAAAAP6+CXYVZyKJAAAAAPyURMoTqTa9AAAAAP3y5gYV607tAAAAAPzNpgSILWchAAAAAP9yxT4Wc3tRAAAAAP0+VgSItZOFAAAAAP7AopYO96e1AAAAAP67EDwZOb/pAAAAAPzHCgiI=
+        </DataArray>
+      </Points>
+      <Lines>
+        <DataArray type='Int32' Name='offsets' format='binary'>
+VAAAAAAAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAABoAAAA=
+        </DataArray>
+        <DataArray type='Int32' Name='connectivity' format='binary'>
+oAEAAAAAAAAAAAAAAQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAAA==
+        </DataArray>
+      </Lines>
+      <PointData>
+        <DataArray type='Float32' Name='p' format='binary'>
+aAAAAAAAAAAlj5PAJY+TwCWPk8Akj5PAJI+TwCOPk8D2kJPA0pWTwH+Zk8DnnJPAMqCTwHCjk8CqppPA4qmTwBmtk8BQsJPAhrOTwL22k8D0uZPAKr2TwGHAk8CYw5PAzsaTwAXKk8A7zZPASc2TwA==
+        </DataArray>
+      </PointData>
+    </Piece>
+  </PolyData>
+</VTKFile>
